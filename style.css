@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
 
 :root {
-    --main-color: #a800a8;
+    --main-color: #e71632;
     --black100: #f7f7f7;
     --black400: #555555;
     --black900: #000000;
@@ -33,7 +33,7 @@ a, a:hover { text-decoration: none; }
     color: var(--white);
     font-size: 16px;
     text-transform: capitalize;
-    box-shadow: var(--shadow-black300);
+    box-shadow: var(--shadow-black300);                                        
     font-weight: 500;
     transition: all .5s ease;
 }
